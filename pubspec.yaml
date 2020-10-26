@@ -1,0 +1,26 @@
+name: resolved
+description: Konference Resolved
+
+publish_to: 'none'
+version: 1.0.2+3
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  firebase_core: any
+  cloud_firestore: any
+  url_launcher: any
+  carousel_slider: any
+  google_maps_flutter: any
+  shared_preferences: any
+  cached_network_image: any
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true

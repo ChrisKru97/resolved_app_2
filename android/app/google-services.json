@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "506811515155",
+    "firebase_url": "https://resolved-155d8.firebaseio.com",
+    "project_id": "resolved-155d8",
+    "storage_bucket": "resolved-155d8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:506811515155:android:defe8387f6b77f8cd0dae6",
+        "android_client_info": {
+          "package_name": "com.bystrice.resolved"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "506811515155-4nd9tgnijsqg2ts5pov18a3i8oec1531.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCYalmw46jg3l1iXLtvDCiR877cELO0HA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "506811515155-4nd9tgnijsqg2ts5pov18a3i8oec1531.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:506811515155:android:26f751d023523efdd0dae6",
+        "android_client_info": {
+          "package_name": "com.krutsche.resolved"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "506811515155-4nd9tgnijsqg2ts5pov18a3i8oec1531.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCYalmw46jg3l1iXLtvDCiR877cELO0HA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "506811515155-4nd9tgnijsqg2ts5pov18a3i8oec1531.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
